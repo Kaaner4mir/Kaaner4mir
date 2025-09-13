@@ -19,10 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaaner4mir&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Top Langs" height="180"/>
 </p>
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
