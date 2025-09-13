@@ -15,11 +15,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
-<p
-   <img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
-</p>
+
 
 ---
 
@@ -33,14 +32,6 @@
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaner4mir&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-
-## 💬 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
 
 ---
