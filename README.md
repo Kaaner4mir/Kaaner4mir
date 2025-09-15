@@ -4,8 +4,6 @@
 
 # 👋 Hi, I'm Kaaner
 
----
-
 💻 I am a Computer Programming student.  
 🔹 I develop console-based projects with C# and .NET.  
 🔹 I practice with Git, GitHub, and modern IDEs.  
@@ -15,12 +13,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" width="350"/>
 </p>
-<p
-<img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
-</p>
-
 
 ---
 
@@ -33,7 +28,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaner4mir&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaner4mir&theme=react-dark&area=true" alt="GitHub Activity Graph" width="700"/>
 </p>
 
 ---
@@ -42,6 +37,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaaner4mir&color=blue&style=flat" alt="Profile views"/>
 </p>
-
----
-
