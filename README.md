@@ -16,7 +16,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaaner4mir&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
+</p>
+<p
+<img src="https://streak-stats.demolab.com?user=Kaaner4mir&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
 
