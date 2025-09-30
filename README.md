@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="GithubBanner.png" alt="Github Banner" />
+  <img src="github-banner.png" alt="Github Banner" />
 </p>
 
 # 👋 Hi, I'm Kaaner
 
-💻 I am a Computer Programming student.  
+💻 I am an **aspiring Software Developer** and a **Computer Programming student**.  
 🔹 I develop console-based projects with C# and .NET.  
+🔹 I am currently learning **mobile application development with .NET MAUI**.  
 🔹 I practice with Git, GitHub, and modern IDEs.  
 🔹 My goal is to improve my programming skills, learn new technologies, and contribute to open source.  
 
@@ -29,11 +30,4 @@
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaner4mir&theme=react-dark&area=true" alt="GitHub Activity Graph" width="700"/>
-</p>
-
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaaner4mir&color=blue&style=flat" alt="Profile views"/>
 </p>
